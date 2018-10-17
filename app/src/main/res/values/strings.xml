@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="login_enter">Sign in</string>
+    <string name="login_register">Registration</string>
+    <string name="login_error">Login or Password Error</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+
+    <string name="password_enter">Enter password</string>
+    <string name="password_enter_again">Enter password again</string>
+    <string name="login_register_error">Login already exist!</string>
+    <string name="login_register_success">Success!</string>
+    <string name="logout">Logout</string>
+    <string name="input_error">Error!</string>
+</resources>
